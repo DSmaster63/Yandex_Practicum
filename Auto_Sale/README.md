@@ -16,4 +16,5 @@ ____
 * использование кодирования OneHotEncoder и OrdinalEncoder для категориальных признаков;
 * функции и модели библиотеки sklearn для работы с данными и регрессией (train_test_split, DecisionTreeRegressor, RandomForestRegressor, LinearRegression, DummyRegressor);
 * бустинговые модели lgbm и catboost;
+* подбор оптимальных гиперпараметров моделей с помощью RandomizedSearchCV
 * проверка модели на адеквантость с помощью константной модели DummyRegressor
