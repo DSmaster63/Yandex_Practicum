@@ -12,7 +12,7 @@ ____
 ____
 **Используемые инструменты:**
 * функции библиотеки Pandas;
-* графики, гистограммы и тепловые карты, доступные в библиотеке mathplotlib и seaborn;
+* графики, гистограммы и тепловые карты, доступные в библиотеке matplotlib и seaborn;
 * использование кодирования OneHotEncoder и OrdinalEncoder для категориальных признаков;
 * функции и модели библиотеки sklearn для работы с данными и регрессией (train_test_split, DecisionTreeRegressor, RandomForestRegressor, LinearRegression, DummyRegressor);
 * бустинговые модели lgbm и catboost;
